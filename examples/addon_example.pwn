@@ -18,7 +18,7 @@
  * The addon registers itself, hooks events, and uses metadata/custom properties.
  */
 
-#include <a_samp>
+#include <open.mp>
 #include <EVF9>
 
 // ---- Addon registration ----

@@ -17,7 +17,7 @@
  * Demonstrates vehicle insurance with expiry timestamps.
  */
 
-#include <a_samp>
+#include <open.mp>
 #include <EVF9>
 #include <EVF9/modules/evf9_insurance>
 

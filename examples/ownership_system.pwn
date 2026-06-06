@@ -17,7 +17,7 @@
  * Demonstrates vehicle ownership assignment, transfer, and events.
  */
 
-#include <a_samp>
+#include <open.mp>
 #include <EVF9>
 #include <EVF9/modules/evf9_ownership>
 

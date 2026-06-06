@@ -17,7 +17,7 @@
  * Benchmarks: creation, destruction, iteration, search — 500, 2000, 5000 vehicles.
  */
 
-#include <a_samp>
+#include <open.mp>
 #include <EVF9>
 
 #define BENCH_COUNT_SMALL  500
