@@ -12,7 +12,7 @@
  * Do not remove this notice.
 -->
 
-# 🚗 EVF9 — EXTENDED VEHICLE FRAMEWORK 9
+# 🚗 EVF9 — EXTENDED VEHICLE FRAMEWORK 9 (EM VERSÃO TESTE AINDA, NÃO RECOMENDO NEM BAIXA)
 **EVF9** é uma plugin que mudar completamente a forma como você gerencia os veículos do seu servidor SA-MP ou Open.MP.
 Diferente de tudo o que você já viu, ele não é um monte de includes pesadas em Pawn. O EVF9 é um **plugin desenvolvido em C++** trabalhando lado a lado com uma **API em Pawn**. Isso significa que todo o processamento bruto, loops e salvamento de dados rodam direto no plugin, garantindo um desempenho absurdo para o seu servidor.
 [![Platform](https://img.shields.io/badge/platform-Open.MP%20%7C%20SA--MP-blue)](https://open.mp)
