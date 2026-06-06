@@ -17,7 +17,7 @@
  * Demonstrates CreateManagedVehicle, iteration, UIDs, and flags.
  */
 
-#include <open.mp>
+#include <a_samp>
 #include <EVF9>
 
 public OnGameModeInit()

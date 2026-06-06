@@ -19,7 +19,7 @@
  * Requires: a_mysql plugin (BlueG or pBlueG fork)
  */
 
-#include <open.mp>
+#include <a_samp>
 #include <a_mysql>
 #include <EVF9>
 #include <EVF9/modules/evf9_ownership>

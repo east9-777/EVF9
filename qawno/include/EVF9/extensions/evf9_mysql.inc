@@ -12,16 +12,16 @@
  * Do not remove this notice.
  */
 
-#if defined mysql_included
+#if defined _evf9_mysql_included
     #endinput
 #endif
-#define mysql_included
+#define _evf9_mysql_included
 
 #if !defined _evf9_core_included
     #error "Include <EVF9> before including EVF9/extensions/evf9_mysql"
 #endif
 
-#if !defined _mysql_included
+#if !defined mysql_included
     #error "evf9_mysql requires a_mysql plugin. Include <a_mysql> before <EVF9/extensions/evf9_mysql>"
 #endif
 

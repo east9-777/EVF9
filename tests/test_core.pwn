@@ -17,7 +17,7 @@
  * Validates: creation, destruction, respawn, UIDs, pool, iterator.
  */
 
-#include <open.mp>
+#include <a_samp>
 #include <EVF9>
 
 static g_Pass = 0;

@@ -17,7 +17,7 @@
  * Validates: lifecycle, cancelable, and state events fire correctly.
  */
 
-#include <open.mp>
+#include <a_samp>
 #include <EVF9>
 #include <EVF9/modules/evf9_fuel>
 #include <EVF9/modules/evf9_keys>

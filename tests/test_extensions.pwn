@@ -18,7 +18,7 @@
  * NOTE: MySQL/SQLite require actual plugin — this tests the state machine only.
  */
 
-#include <open.mp>
+#include <a_samp>
 #include <EVF9>
 
 #define TEST_ASSERT(%0,%1) \

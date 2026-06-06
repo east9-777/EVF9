@@ -374,7 +374,6 @@ native TrackVehicle(vehicleid, playerid = -1);
 native UntrackVehicle(vehicleid, playerid = -1);
 native GetVehicleLastPosition(vehicleid, &Float:x, &Float:y, &Float:z);
 native GetVehicleTravelDistance(vehicleid, &Float:dist);
-//em ajustes
 //native GetVehicleDistanceFromPoint(vehicleid, Float:x, Float:y, Float:z, &Float:dist);
 
 // ---------------------------------------------------------------------------
