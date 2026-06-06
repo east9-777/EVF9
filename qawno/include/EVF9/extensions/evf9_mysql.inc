@@ -12,10 +12,10 @@
  * Do not remove this notice.
  */
 
-#if defined _evf9_mysql_included
+#if defined mysql_included
     #endinput
 #endif
-#define _evf9_mysql_included
+#define mysql_included
 
 #if !defined _evf9_core_included
     #error "Include <EVF9> before including EVF9/extensions/evf9_mysql"
